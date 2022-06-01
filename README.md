@@ -22,4 +22,4 @@ CHANGE LOG
 - 1.2.0
   1. Perubahan format dokumen
   2. Fitur X dihapus 
-  3. Fitur Y dihapus 
+  3. Fitur Y sudah usang
