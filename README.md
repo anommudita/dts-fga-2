@@ -23,3 +23,4 @@ CHANGE LOG
   1. Perubahan format dokumen
   2. Fitur X dihapus 
   3. Fitur Y sudah usang
+  4. Ada Virus
