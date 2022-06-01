@@ -16,7 +16,7 @@ Versi dokumen 1.3.99
 
 
 CHANGE LOG
-- 1.3.99
+- 1.3.100
   1. Penambahan teks
 
 - 1.2.0
