@@ -1,4 +1,4 @@
-# dts-fga-2
+# dts-fga-2 (versi edit)
 Belajar git pelatihan React JS
 
 Nama : Ida Bagus Anom Mudita
