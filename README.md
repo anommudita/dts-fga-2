@@ -8,4 +8,8 @@ Pelatihan Pertama belajar git
 
 
 ## Apa itu Markdown
-Markdown adalah sebuah dokumen yang memiliki _format
+Markdown adalah sebuah dokumen yang memiliki _format_.
+
+#### Terakhir diupdate 1 Juni 2022
+
+Versi dokumen 0.0.1
